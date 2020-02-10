@@ -1,5 +1,7 @@
 package lv.javaguru.homework;
 
+import java.awt.Color;
+
 public class Car {
 
     String color;
