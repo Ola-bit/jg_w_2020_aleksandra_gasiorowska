@@ -2,6 +2,13 @@ package Homework_3;
 
 public class LightColorDetectorTest {
 
+    //here you should have main method
+    //which creates LightColorDetector object
+
+    //something like
+    //LightColorDetector detector = new LightColorDetector();
+    //detector.printWaveByLength(300);
+
     public void printWavelength(int wavelength) {
 
         System.out.println(wavelength);
