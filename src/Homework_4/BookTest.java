@@ -18,5 +18,11 @@ public class BookTest {
         System.out.println();
 
 
+        System.out.println(b1);
+        System.out.println(b2);
+        System.out.println(b3);
+        System.out.println(b4);
+
+
     }
 }
