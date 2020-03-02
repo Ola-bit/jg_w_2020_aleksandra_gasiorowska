@@ -1,4 +1,4 @@
-package Homework_5;
+package Homework_6;
 
 public class NumberService {
     public int sumInRange( int number1, int number2 ) {
