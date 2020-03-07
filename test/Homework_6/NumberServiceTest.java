@@ -1,5 +1,7 @@
 package Homework_6;
 
+//please, use unit test
+//these are separate methods for eash case with @Test annotation
 class NumberServiceTest {
 
     public static void main(String[] args){
