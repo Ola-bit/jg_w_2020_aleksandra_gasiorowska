@@ -1,9 +1,7 @@
-package Homework_5;
+package Homework_6;
 
-import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
-
+//please, use unit test
+//these are separate methods for eash case with @Test annotation
 class NumberServiceTest {
 
     public static void main(String[] args){
