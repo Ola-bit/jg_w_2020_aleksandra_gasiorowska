@@ -1,0 +1,21 @@
+package homework7;
+import org.junit.jupiter.api.Test;
+import java.util.Arrays;
+class ArrayServiceTest {
+
+    @Test
+    void newArray() {
+        ArrayService array1 = new ArrayService();
+        array1.create(10);
+        int [] createdArray = new int [10];
+        System.out.println(Arrays.toString(createdArray));
+
+        array1.fillArrayWithRandomNumbers(createdArray);
+        System.out.println(Arrays.toString(createdArray));
+
+        array1.printArrayToConsole(createdArray);
+
+        array1.sum(createdArray);
+        System.out.println(Arrays.toString(createdArray));
+
+    }}
